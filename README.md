@@ -1,0 +1,2 @@
+# newcovid
+nextjsproject
